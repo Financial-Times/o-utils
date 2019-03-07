@@ -1,8 +1,8 @@
 /*global describe,beforeEach,afterEach,it*/
 
-import * as Utils from './../main';
-import sinon from 'sinon/pkg/sinon';
-import proclaim from 'proclaim';
+const Utils = require('./../main');
+const sinon = require('sinon/pkg/sinon');
+const proclaim = require('proclaim');
 
 describe("getIndex()", function() {
 
