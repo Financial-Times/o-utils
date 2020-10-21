@@ -15,7 +15,7 @@ Check out [how to include Origami components in your project](https://origami.ft
 ## JavaScript
 
 ```JS
-	import * as Utils from 'o-utils';
+	import * as Utils from '@financial-times/o-utils';
 	const myFunction = () => {};
 	Utils.throttle(myFunction, 100);
 	Utils.debounce(myFunction, 100)
