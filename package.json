@@ -1,5 +1,5 @@
 {
-    "name": "o-utils",
+    "name": "@financial-times/o-utils",
     "main": "main.js",
     "devDependencies": {
         "eslint": "^7.8.1",
