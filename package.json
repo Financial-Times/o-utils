@@ -1,5 +1,7 @@
 {
     "name": "@financial-times/o-utils",
+    "version": "100.0.0-7",
+    "description": "Provides JS helper functions, such as throttling and debouncing",
     "browser": "main.js",
     "devDependencies": {
         "eslint": "^7.8.1",
@@ -12,9 +14,7 @@
         "stylelint-config-origami-component": "^1.0.4"
     },
     "peerDependencies": {},
-    "description": "Provides JS helper functions, such as throttling and debouncing",
     "publishConfig": {
         "registry": "http://localhost:4873"
-    },
-    "version": "100.0.0-7"
+    }
 }
