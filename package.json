@@ -1,6 +1,6 @@
 {
     "name": "@financial-times/o-utils",
-    "version": "100.0.0-7",
+    "version": "100.0.0-8",
     "description": "Provides JS helper functions, such as throttling and debouncing",
     "license": "MIT",
     "type": "module",
